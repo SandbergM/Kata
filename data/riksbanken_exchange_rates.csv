@@ -1,0 +1,1556 @@
+series_id,group_id,currency_to_sek,date,currency,currency_description,source
+SEKGBPPMI,130,13.0163,2024-01-10,GBP,pound sterling,Sveriges Riksbank
+SEKETT,130,1.0,2024-01-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.197,2024-01-10,EUR,Euroland euro,Sveriges Riksbank
+SEKDKKPMI,130,1.5013,2024-01-10,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.2293,2024-01-10,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2024-01-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5034,2024-01-09,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.2482,2024-01-09,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,13.046,2024-01-09,GBP,pound sterling,Sveriges Riksbank
+SEKEURPMI,130,11.2115,2024-01-09,EUR,Euroland euro,Sveriges Riksbank
+SEKETT,130,1.0,2024-01-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.0116,2024-01-08,GBP,pound sterling,Sveriges Riksbank
+SEKEURPMI,130,11.2095,2024-01-08,EUR,Euroland euro,Sveriges Riksbank
+SEKUSDPMI,130,10.2407,2024-01-08,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.5023,2024-01-08,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.2875,2024-01-05,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.235,2024-01-05,EUR,Euroland euro,Sveriges Riksbank
+SEKETT,130,1.0,2024-01-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5064,2024-01-05,DKK,Danish krone,Sveriges Riksbank
+SEKGBPPMI,130,13.0321,2024-01-05,GBP,pound sterling,Sveriges Riksbank
+SEKETT,130,1.0,2024-01-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.2168,2024-01-04,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.1905,2024-01-04,EUR,Euroland euro,Sveriges Riksbank
+SEKDKKPMI,130,1.5003,2024-01-04,DKK,Danish krone,Sveriges Riksbank
+SEKGBPPMI,130,12.9703,2024-01-04,GBP,pound sterling,Sveriges Riksbank
+SEKEURPMI,130,11.1915,2024-01-03,EUR,Euroland euro,Sveriges Riksbank
+SEKGBPPMI,130,12.9426,2024-01-03,GBP,pound sterling,Sveriges Riksbank
+SEKUSDPMI,130,10.2496,2024-01-03,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2024-01-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5006,2024-01-03,DKK,Danish krone,Sveriges Riksbank
+SEKETT,130,1.0,2024-01-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.1812,2024-01-02,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.1545,2024-01-02,EUR,Euroland euro,Sveriges Riksbank
+SEKDKKPMI,130,1.4962,2024-01-02,DKK,Danish krone,Sveriges Riksbank
+SEKGBPPMI,130,12.8738,2024-01-02,GBP,pound sterling,Sveriges Riksbank
+SEKUSDPMI,130,10.0416,2023-12-29,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.4888,2023-12-29,DKK,Danish krone,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.768,2023-12-29,GBP,pound sterling,Sveriges Riksbank
+SEKEURPMI,130,11.096,2023-12-29,EUR,Euroland euro,Sveriges Riksbank
+SEKUSDPMI,130,9.9318,2023-12-28,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,12.6788,2023-12-28,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.4807,2023-12-28,DKK,Danish krone,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.0382,2023-12-28,EUR,Euroland euro,Sveriges Riksbank
+SEKUSDPMI,130,10.0009,2023-12-27,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.4844,2023-12-27,DKK,Danish krone,Sveriges Riksbank
+SEKGBPPMI,130,12.7444,2023-12-27,GBP,pound sterling,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.066,2023-12-27,EUR,Euroland euro,Sveriges Riksbank
+SEKGBPPMI,130,12.7574,2023-12-22,GBP,pound sterling,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.0296,2023-12-22,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.0556,2023-12-22,EUR,Euroland euro,Sveriges Riksbank
+SEKDKKPMI,130,1.4828,2023-12-22,DKK,Danish krone,Sveriges Riksbank
+SEKDKKPMI,130,1.4886,2023-12-21,DKK,Danish krone,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.099,2023-12-21,EUR,Euroland euro,Sveriges Riksbank
+SEKGBPPMI,130,12.7861,2023-12-21,GBP,pound sterling,Sveriges Riksbank
+SEKUSDPMI,130,10.1056,2023-12-21,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,12.8577,2023-12-20,GBP,pound sterling,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.169,2023-12-20,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.4925,2023-12-20,DKK,Danish krone,Sveriges Riksbank
+SEKEURPMI,130,11.129,2023-12-20,EUR,Euroland euro,Sveriges Riksbank
+SEKEURPMI,130,11.175,2023-12-19,EUR,Euroland euro,Sveriges Riksbank
+SEKUSDPMI,130,10.1943,2023-12-19,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4987,2023-12-19,DKK,Danish krone,Sveriges Riksbank
+SEKGBPPMI,130,12.9798,2023-12-19,GBP,pound sterling,Sveriges Riksbank
+SEKGBPPMI,130,12.9198,2023-12-18,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.495,2023-12-18,DKK,Danish krone,Sveriges Riksbank
+SEKEURPMI,130,11.145,2023-12-18,EUR,Euroland euro,Sveriges Riksbank
+SEKUSDPMI,130,10.2079,2023-12-18,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5039,2023-12-15,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.2435,2023-12-15,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.2125,2023-12-15,EUR,Euroland euro,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.0632,2023-12-15,GBP,pound sterling,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.239,2023-12-14,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.18,2023-12-14,EUR,Euroland euro,Sveriges Riksbank
+SEKGBPPMI,130,13.0068,2023-12-14,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.4993,2023-12-14,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.4542,2023-12-13,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,13.0945,2023-12-13,GBP,pound sterling,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.277,2023-12-13,EUR,Euroland euro,Sveriges Riksbank
+SEKDKKPMI,130,1.5124,2023-12-13,DKK,Danish krone,Sveriges Riksbank
+SEKGBPPMI,130,13.129,2023-12-12,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.5129,2023-12-12,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.442,2023-12-12,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.2815,2023-12-12,EUR,Euroland euro,Sveriges Riksbank
+SEKUSDPMI,130,10.502,2023-12-11,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.297,2023-12-11,EUR,Euroland euro,Sveriges Riksbank
+SEKGBPPMI,130,13.2005,2023-12-11,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.5151,2023-12-11,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.4278,2023-12-08,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.5073,2023-12-08,DKK,Danish krone,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.238,2023-12-08,EUR,Euroland euro,Sveriges Riksbank
+SEKGBPPMI,130,13.1147,2023-12-08,GBP,pound sterling,Sveriges Riksbank
+SEKUSDPMI,130,10.45,2023-12-07,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,13.1262,2023-12-07,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.5098,2023-12-07,DKK,Danish krone,Sveriges Riksbank
+SEKEURPMI,130,11.2557,2023-12-07,EUR,Euroland euro,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.207,2023-12-06,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.5165,2023-12-06,DKK,Danish krone,Sveriges Riksbank
+SEKUSDPMI,130,10.4904,2023-12-06,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.3065,2023-12-06,EUR,Euroland euro,Sveriges Riksbank
+SEKDKKPMI,130,1.5168,2023-12-05,DKK,Danish krone,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.3095,2023-12-05,EUR,Euroland euro,Sveriges Riksbank
+SEKGBPPMI,130,13.1931,2023-12-05,GBP,pound sterling,Sveriges Riksbank
+SEKUSDPMI,130,10.4553,2023-12-05,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-12-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.321,2023-12-04,EUR,Euroland euro,Sveriges Riksbank
+SEKUSDPMI,130,10.4168,2023-12-04,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.5183,2023-12-04,DKK,Danish krone,Sveriges Riksbank
+SEKGBPPMI,130,13.1962,2023-12-04,GBP,pound sterling,Sveriges Riksbank
+SEKDKKPMI,130,1.5255,2023-12-01,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3715,2023-12-01,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-12-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.2158,2023-12-01,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4566,2023-12-01,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,13.235,2023-11-30,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4572,2023-11-30,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.4308,2023-11-30,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5334,2023-11-30,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5242,2023-11-29,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-11-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3464,2023-11-29,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.3655,2023-11-29,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.1355,2023-11-29,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5334,2023-11-28,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.433,2023-11-28,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.1686,2023-11-28,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-11-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.442,2023-11-28,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-11-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.1774,2023-11-27,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4292,2023-11-27,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.5319,2023-11-27,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.421,2023-11-27,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.1412,2023-11-24,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5329,2023-11-24,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.4791,2023-11-24,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.4289,2023-11-24,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.0783,2023-11-23,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.494,2023-11-23,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-11-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.398,2023-11-23,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5288,2023-11-23,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.4303,2023-11-22,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.1284,2023-11-22,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.439,2023-11-22,USD,US dollar,Sveriges Riksbank
+SEKDKKPMI,130,1.5334,2023-11-22,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-11-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5266,2023-11-21,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.0207,2023-11-21,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4099,2023-11-21,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.3827,2023-11-21,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKETT,130,1.0,2023-11-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.4559,2023-11-20,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4566,2023-11-20,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,13.0915,2023-11-20,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5365,2023-11-20,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.1136,2023-11-17,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.538,2023-11-17,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.4711,2023-11-17,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5602,2023-11-17,USD,US dollar,Sveriges Riksbank
+SEKEURPMI,130,11.4352,2023-11-16,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5906,2023-11-16,USD,US dollar,Sveriges Riksbank
+SEKGBPPMI,130,13.049,2023-11-16,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5331,2023-11-16,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.4992,2023-11-15,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.1859,2023-11-15,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5418,2023-11-15,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.5364,2023-11-15,USD,US dollar,Sveriges Riksbank
+SEKETT,130,1.0,2023-11-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3363,2023-11-14,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8532,2023-11-14,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-11-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5575,2023-11-14,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6181,2023-11-14,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.6474,2023-11-13,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3333,2023-11-13,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5615,2023-11-13,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.8957,2023-11-13,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5617,2023-11-10,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-11-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3423,2023-11-10,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.6474,2023-11-10,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.9087,2023-11-10,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.891,2023-11-09,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5625,2023-11-09,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6524,2023-11-09,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3694,2023-11-09,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5677,2023-11-08,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6906,2023-11-08,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.4309,2023-11-08,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.9499,2023-11-08,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6936,2023-11-07,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.4682,2023-11-07,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.9272,2023-11-07,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-11-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5678,2023-11-07,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-11-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.8638,2023-11-06,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.565,2023-11-06,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.677,2023-11-06,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.4673,2023-11-06,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5814,2023-11-03,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.8024,2023-11-03,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-11-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.542,2023-11-03,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.1085,2023-11-03,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-11-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.8041,2023-11-02,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5815,2023-11-02,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.5502,2023-11-02,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.1393,2023-11-02,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.8035,2023-11-01,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.5798,2023-11-01,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5813,2023-11-01,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.1795,2023-11-01,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-11-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.8241,2023-10-31,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.584,2023-10-31,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-31,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.5289,2023-10-31,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.1208,2023-10-31,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.7858,2023-10-30,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5792,2023-10-30,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,11.1716,2023-10-30,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5109,2023-10-30,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5794,2023-10-27,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.5307,2023-10-27,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.7863,2023-10-27,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.1664,2023-10-27,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-10-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.5372,2023-10-26,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.2015,2023-10-26,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.582,2023-10-26,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-26,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.8076,2023-10-26,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.8076,2023-10-25,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.157,2023-10-25,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5569,2023-10-25,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5818,2023-10-25,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.4284,2023-10-24,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.6784,2023-10-24,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5647,2023-10-24,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9444,2023-10-24,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6517,2023-10-23,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.3885,2023-10-23,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.0086,2023-10-23,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5614,2023-10-23,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,11.0057,2023-10-20,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.559,2023-10-20,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.3297,2023-10-20,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.6352,2023-10-20,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-10-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6422,2023-10-19,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-10-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,11.0437,2023-10-19,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.4007,2023-10-19,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5603,2023-10-19,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5494,2023-10-18,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.3333,2023-10-18,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.9303,2023-10-18,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-10-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.5592,2023-10-18,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.5241,2023-10-17,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.301,2023-10-17,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5449,2023-10-17,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9232,2023-10-17,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-10-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.5605,2023-10-16,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.55,2023-10-16,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.9802,2023-10-16,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.3632,2023-10-16,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5486,2023-10-13,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.9501,2023-10-13,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.3695,2023-10-13,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.5472,2023-10-13,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-10-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.897,2023-10-12,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.5798,2023-10-12,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-10-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.553,2023-10-12,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.414,2023-10-12,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,13.3667,2023-10-11,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.5441,2023-10-11,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.8812,2023-10-11,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-10-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5482,2023-10-11,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.413,2023-10-10,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.5908,2023-10-10,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.9753,2023-10-10,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5544,2023-10-10,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.4409,2023-10-09,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5583,2023-10-09,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.0312,2023-10-09,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6214,2023-10-09,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.6194,2023-10-06,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.0183,2023-10-06,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.4312,2023-10-06,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5581,2023-10-06,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-10-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6189,2023-10-05,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.0581,2023-10-05,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-10-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.4178,2023-10-05,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5579,2023-10-05,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.0795,2023-10-04,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5556,2023-10-04,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6034,2023-10-04,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-10-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3732,2023-10-04,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.5858,2023-10-03,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.0629,2023-10-03,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-10-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3498,2023-10-03,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5533,2023-10-03,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5485,2023-10-02,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.3271,2023-10-02,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-10-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9134,2023-10-02,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.5502,2023-10-02,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.4923,2023-09-29,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5412,2023-09-29,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-09-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.2748,2023-09-29,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8413,2023-09-29,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5542,2023-09-28,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.5883,2023-09-28,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.0245,2023-09-28,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.3928,2023-09-28,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKETT,130,1.0,2023-09-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.561,2023-09-27,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6391,2023-09-27,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.0107,2023-09-27,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.3793,2023-09-27,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-26,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5737,2023-09-26,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.736,2023-09-26,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.091,2023-09-26,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5006,2023-09-26,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5853,2023-09-25,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.8211,2023-09-25,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.1046,2023-09-25,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-09-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.5987,2023-09-25,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.8959,2023-09-22,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-09-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.7113,2023-09-22,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5955,2023-09-22,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.1795,2023-09-22,USD,US dollar,Nasdaq
+SEKUSDPMI,130,11.162,2023-09-21,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.887,2023-09-21,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.595,2023-09-21,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-09-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.7438,2023-09-21,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.919,2023-09-20,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.7719,2023-09-20,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5991,2023-09-20,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.1575,2023-09-20,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.7839,2023-09-19,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5957,2023-09-19,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.894,2023-09-19,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-09-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,11.1361,2023-09-19,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.6004,2023-09-18,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.1926,2023-09-18,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-09-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.9346,2023-09-18,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.8666,2023-09-18,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.8959,2023-09-15,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5954,2023-09-15,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.1606,2023-09-15,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.8671,2023-09-15,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.6007,2023-09-14,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.8845,2023-09-14,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.1192,2023-09-14,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.9408,2023-09-14,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-09-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.9171,2023-09-13,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5975,2023-09-13,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.0933,2023-09-13,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.8233,2023-09-13,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5957,2023-09-12,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.0962,2023-09-12,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.8666,2023-09-12,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.9008,2023-09-12,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.0659,2023-09-11,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5924,2023-09-11,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.8533,2023-09-11,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.8742,2023-09-11,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5956,2023-09-08,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-09-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.8708,2023-09-08,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.1108,2023-09-08,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.9014,2023-09-08,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.9139,2023-09-07,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,11.1237,2023-09-07,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.8683,2023-09-07,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-09-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5977,2023-09-07,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.0948,2023-09-06,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5979,2023-09-06,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.9114,2023-09-06,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-09-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.9515,2023-09-06,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.6014,2023-09-05,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.935,2023-09-05,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-09-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.9496,2023-09-05,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,11.0893,2023-09-05,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-09-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.8865,2023-09-04,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.8845,2023-09-04,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.9989,2023-09-04,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5948,2023-09-04,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5937,2023-09-01,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-09-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9437,2023-09-01,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.8748,2023-09-01,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.8777,2023-09-01,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.8147,2023-08-31,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8668,2023-08-31,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.8434,2023-08-31,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5891,2023-08-31,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-31,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.84,2023-08-30,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5885,2023-08-30,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.7643,2023-08-30,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8987,2023-08-30,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-08-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.8732,2023-08-29,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.8493,2023-08-29,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5932,2023-08-29,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.9706,2023-08-29,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-08-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.9281,2023-08-28,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.6004,2023-08-28,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.0273,2023-08-28,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.8824,2023-08-28,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.8929,2023-08-25,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.8716,2023-08-25,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-08-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5956,2023-08-25,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.0244,2023-08-25,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.8874,2023-08-24,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5922,2023-08-24,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9329,2023-08-24,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.8642,2023-08-24,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5931,2023-08-23,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.959,2023-08-23,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.873,2023-08-23,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.959,2023-08-23,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,13.9499,2023-08-22,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.9134,2023-08-22,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.9041,2023-08-22,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5988,2023-08-22,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9651,2023-08-21,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.9368,2023-08-21,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.6019,2023-08-21,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.9709,2023-08-21,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,13.9308,2023-08-18,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.9065,2023-08-18,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.9513,2023-08-18,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-08-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5978,2023-08-18,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9282,2023-08-17,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.8901,2023-08-17,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.9152,2023-08-17,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5957,2023-08-17,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.8421,2023-08-16,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.8415,2023-08-16,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.8058,2023-08-16,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5891,2023-08-16,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.831,2023-08-15,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.7521,2023-08-15,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8341,2023-08-15,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5877,2023-08-15,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.8499,2023-08-14,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5939,2023-08-14,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.7675,2023-08-14,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-08-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.8769,2023-08-14,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5784,2023-08-11,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.5956,2023-08-11,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.7613,2023-08-11,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.6967,2023-08-11,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5706,2023-08-10,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5731,2023-08-10,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.7213,2023-08-10,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.6441,2023-08-10,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.6786,2023-08-09,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.6326,2023-08-09,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5726,2023-08-09,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.718,2023-08-09,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5679,2023-08-08,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6393,2023-08-08,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5621,2023-08-08,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-08-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6827,2023-08-08,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5633,2023-08-07,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6002,2023-08-07,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6486,2023-08-07,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.4984,2023-08-07,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,13.6011,2023-08-04,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5728,2023-08-04,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.7015,2023-08-04,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.7197,2023-08-04,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-08-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.7178,2023-08-03,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.6271,2023-08-03,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5725,2023-08-03,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.7291,2023-08-03,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.6174,2023-08-02,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6702,2023-08-02,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.566,2023-08-02,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-08-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.565,2023-08-02,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-08-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5736,2023-08-01,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5666,2023-08-01,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.6069,2023-08-01,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5575,2023-08-01,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-07-31,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5225,2023-07-31,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5353,2023-07-31,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5565,2023-07-31,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6,2023-07-31,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.5736,2023-07-28,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.5888,2023-07-28,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.5192,2023-07-28,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.555,2023-07-28,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-07-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5422,2023-07-27,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-07-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3363,2023-07-27,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.4923,2023-07-27,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.4058,2023-07-27,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-07-26,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3466,2023-07-26,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5376,2023-07-26,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3556,2023-07-26,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.4576,2023-07-26,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-07-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.3119,2023-07-25,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5397,2023-07-25,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.4725,2023-07-25,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3528,2023-07-25,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.3936,2023-07-24,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5515,2023-07-24,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-07-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.418,2023-07-24,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.5615,2023-07-24,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.3475,2023-07-21,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-07-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3569,2023-07-21,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.5313,2023-07-21,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5477,2023-07-21,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.5143,2023-07-20,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5454,2023-07-20,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.2656,2023-07-20,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.2694,2023-07-20,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-07-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKETT,130,1.0,2023-07-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.4935,2023-07-19,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.2583,2023-07-19,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5425,2023-07-19,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.2341,2023-07-19,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.1805,2023-07-18,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.3356,2023-07-18,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.4751,2023-07-18,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-07-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5401,2023-07-18,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5414,2023-07-17,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.217,2023-07-17,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-07-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.4827,2023-07-17,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.3732,2023-07-17,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.4688,2023-07-14,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.539,2023-07-14,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.4078,2023-07-14,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2323,2023-07-14,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-07-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.4978,2023-07-13,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5506,2023-07-13,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.5557,2023-07-13,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-07-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3706,2023-07-13,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.653,2023-07-12,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.747,2023-07-12,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-07-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.7872,2023-07-12,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5762,2023-07-12,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.8054,2023-07-11,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5843,2023-07-11,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.7172,2023-07-11,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-07-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.8108,2023-07-11,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.8694,2023-07-10,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.8789,2023-07-10,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-07-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5931,2023-07-10,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.8365,2023-07-10,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-07-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5982,2023-07-07,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.9402,2023-07-07,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.9421,2023-07-07,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.9095,2023-07-07,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.887,2023-07-06,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-07-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.9156,2023-07-06,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.596,2023-07-06,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.9405,2023-07-06,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.7833,2023-07-05,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-07-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.8422,2023-07-05,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5867,2023-07-05,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.8181,2023-07-05,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-07-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5863,2023-07-04,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.8309,2023-07-04,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.8145,2023-07-04,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.7512,2023-07-04,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8291,2023-07-03,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5822,2023-07-03,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.7212,2023-07-03,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.7829,2023-07-03,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-07-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.7202,2023-06-30,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-06-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5834,2023-06-30,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.8509,2023-06-30,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.7917,2023-06-30,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.7425,2023-06-29,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.7578,2023-06-29,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5768,2023-06-29,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-06-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.5992,2023-06-29,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.7181,2023-06-28,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.6477,2023-06-28,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-06-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.7366,2023-06-28,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5763,2023-06-28,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-06-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6775,2023-06-27,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.6038,2023-06-27,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.6791,2023-06-27,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.568,2023-06-27,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-06-26,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.6528,2023-06-26,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.6837,2023-06-26,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.7217,2023-06-26,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.569,2023-06-26,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5767,2023-06-22,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6871,2023-06-22,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-06-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.7432,2023-06-22,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.6284,2023-06-22,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8003,2023-06-21,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5833,2023-06-21,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.7917,2023-06-21,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-06-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.7918,2023-06-21,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.7247,2023-06-20,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-06-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5746,2023-06-20,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.724,2023-06-20,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.7296,2023-06-20,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.677,2023-06-19,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-06-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5665,2023-06-19,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.671,2023-06-19,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.6863,2023-06-19,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.6039,2023-06-16,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.557,2023-06-16,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-06-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6024,2023-06-16,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.5657,2023-06-16,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.6159,2023-06-15,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.7423,2023-06-15,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5873,2023-06-15,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5587,2023-06-15,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-06-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKETT,130,1.0,2023-06-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5473,2023-06-14,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.4738,2023-06-14,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.6854,2023-06-14,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.5318,2023-06-14,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.6096,2023-06-13,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.5107,2023-06-13,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.7504,2023-06-13,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-06-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.558,2023-06-13,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5611,2023-06-12,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.6037,2023-06-12,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.633,2023-06-12,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-06-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.8194,2023-06-12,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6517,2023-06-09,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-06-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.8151,2023-06-09,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.5721,2023-06-09,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5638,2023-06-09,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.8784,2023-06-08,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.543,2023-06-08,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-06-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6441,2023-06-08,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5631,2023-06-08,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5631,2023-06-07,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.5274,2023-06-07,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-06-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9055,2023-06-07,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6443,2023-06-07,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.4709,2023-06-05,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8638,2023-06-05,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-06-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5591,2023-06-05,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6119,2023-06-05,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.5115,2023-06-02,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5591,2023-06-02,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.6129,2023-06-02,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-06-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.782,2023-06-02,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.7995,2023-06-01,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.6172,2023-06-01,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.518,2023-06-01,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.56,2023-06-01,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-06-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5668,2023-05-31,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.5203,2023-05-31,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.8339,2023-05-31,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-31,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6698,2023-05-31,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.403,2023-05-30,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.5925,2023-05-30,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.7763,2023-05-30,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5564,2023-05-30,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.7418,2023-05-29,USD,US dollar,Nasdaq
+SEKGBPPMI,130,13.3505,2023-05-29,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5575,2023-05-29,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-05-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.6025,2023-05-29,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.7194,2023-05-26,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5535,2023-05-26,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-05-26,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.312,2023-05-26,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.5738,2023-05-26,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.6988,2023-05-25,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5473,2023-05-25,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.2734,2023-05-25,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.5277,2023-05-25,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,13.2225,2023-05-24,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5402,2023-05-24,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6196,2023-05-24,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.4705,2023-05-24,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5342,2023-05-23,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-05-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.1339,2023-05-23,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.5728,2023-05-23,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.4248,2023-05-23,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-05-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5349,2023-05-22,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3769,2023-05-22,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5273,2023-05-22,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,13.0833,2023-05-22,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-05-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.0959,2023-05-19,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5273,2023-05-19,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3755,2023-05-19,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.5537,2023-05-19,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3099,2023-05-17,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-05-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.9749,2023-05-17,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4271,2023-05-17,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5186,2023-05-17,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-05-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5124,2023-05-16,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.9382,2023-05-16,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3527,2023-05-16,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2647,2023-05-16,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.9671,2023-05-15,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5164,2023-05-15,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-05-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.2946,2023-05-15,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3894,2023-05-15,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.9213,2023-05-12,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5129,2023-05-12,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3088,2023-05-12,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.2676,2023-05-12,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.2665,2023-05-11,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.9159,2023-05-11,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-05-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5071,2023-05-11,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.2234,2023-05-11,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8725,2023-05-10,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.1835,2023-05-10,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5022,2023-05-10,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.1864,2023-05-10,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4995,2023-05-09,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-05-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.8255,2023-05-09,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.1672,2023-05-09,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.1694,2023-05-09,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5049,2023-05-08,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.8355,2023-05-08,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.1522,2023-05-08,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2119,2023-05-08,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-05-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.8729,2023-05-05,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2015,2023-05-05,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5113,2023-05-05,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.2582,2023-05-05,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.3666,2023-05-04,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.2715,2023-05-04,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.9026,2023-05-04,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5253,2023-05-04,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-05-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.3433,2023-05-03,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5219,2023-05-03,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.8639,2023-05-03,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2765,2023-05-03,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.2855,2023-05-02,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-05-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5177,2023-05-02,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3123,2023-05-02,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8617,2023-05-02,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.3228,2023-04-28,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5191,2023-04-28,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.8401,2023-04-28,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2885,2023-04-28,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-04-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.3975,2023-04-27,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8678,2023-04-27,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5292,2023-04-27,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3201,2023-04-27,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-04-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKETT,130,1.0,2023-04-26,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.8175,2023-04-26,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5215,2023-04-26,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.34,2023-04-26,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.2891,2023-04-26,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.517,2023-04-25,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-04-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.3074,2023-04-25,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.2514,2023-04-25,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7766,2023-04-25,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3187,2023-04-24,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3286,2023-04-24,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5203,2023-04-24,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.8283,2023-04-24,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3476,2023-04-21,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3305,2023-04-21,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8243,2023-04-21,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5202,2023-04-21,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-04-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.34,2023-04-20,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8627,2023-04-20,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3494,2023-04-20,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5216,2023-04-20,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.325,2023-04-19,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.873,2023-04-19,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3238,2023-04-19,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.52,2023-04-19,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-04-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.7969,2023-04-18,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5156,2023-04-18,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3053,2023-04-18,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2931,2023-04-18,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.3422,2023-04-17,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8142,2023-04-17,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3134,2023-04-17,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5224,2023-04-17,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.8452,2023-04-14,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.2507,2023-04-14,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5227,2023-04-14,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3451,2023-04-14,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5267,2023-04-13,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.9289,2023-04-13,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.3754,2023-04-13,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-04-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3423,2023-04-13,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.9181,2023-04-12,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5247,2023-04-12,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3601,2023-04-12,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4011,2023-04-12,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-04-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,13.0142,2023-04-11,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4718,2023-04-11,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.4114,2023-04-11,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5316,2023-04-11,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5255,2023-04-06,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.9976,2023-04-06,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.3647,2023-04-06,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4129,2023-04-06,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.8691,2023-04-05,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2892,2023-04-05,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2803,2023-04-05,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-04-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.514,2023-04-05,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.9012,2023-04-04,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3731,2023-04-04,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-04-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.3156,2023-04-04,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5188,2023-04-04,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3933,2023-04-03,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7971,2023-04-03,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-04-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5109,2023-04-03,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.2556,2023-04-03,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3539,2023-03-31,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.276,2023-03-31,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5138,2023-03-31,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.8142,2023-03-31,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-31,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4271,2023-03-30,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3081,2023-03-30,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8695,2023-03-30,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5183,2023-03-30,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-03-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.2382,2023-03-29,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-03-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.7861,2023-03-29,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3762,2023-03-29,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5084,2023-03-29,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.4996,2023-03-28,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-03-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.7226,2023-03-28,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3217,2023-03-28,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.173,2023-03-28,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-03-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.7305,2023-03-27,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5015,2023-03-27,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3982,2023-03-27,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1893,2023-03-27,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.1828,2023-03-24,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.7045,2023-03-24,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5009,2023-03-24,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3705,2023-03-24,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-03-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.2535,2023-03-23,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5003,2023-03-23,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1734,2023-03-23,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6285,2023-03-23,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.1521,2023-03-22,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4975,2023-03-22,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3499,2023-03-22,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7046,2023-03-22,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.109,2023-03-21,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-03-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.492,2023-03-21,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3501,2023-03-21,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.6791,2023-03-21,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5265,2023-03-20,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.8231,2023-03-20,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5042,2023-03-20,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1986,2023-03-20,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-03-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.1423,2023-03-17,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4552,2023-03-17,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7016,2023-03-17,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4962,2023-03-17,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-03-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5056,2023-03-16,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.5545,2023-03-16,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.765,2023-03-16,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.2105,2023-03-16,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6495,2023-03-15,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.412,2023-03-15,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-03-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5007,2023-03-15,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1738,2023-03-15,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.3538,2023-03-14,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.6176,2023-03-14,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.9025,2023-03-14,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5249,2023-03-14,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-03-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.6326,2023-03-13,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3907,2023-03-13,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.8568,2023-03-13,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5301,2023-03-13,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.7657,2023-03-10,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-03-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.8528,2023-03-10,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5309,2023-03-10,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.394,2023-03-10,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-03-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6817,2023-03-09,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5167,2023-03-09,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6946,2023-03-09,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2853,2023-03-09,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.521,2023-03-08,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3202,2023-03-08,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6993,2023-03-08,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.7352,2023-03-08,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1574,2023-03-07,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4991,2023-03-07,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5693,2023-03-07,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4522,2023-03-07,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-03-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4996,2023-03-06,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.162,2023-03-06,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-03-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6116,2023-03-06,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4813,2023-03-06,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1322,2023-03-03,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-03-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4957,2023-03-03,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.4811,2023-03-03,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.5574,2023-03-03,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4957,2023-03-02,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1587,2023-03-02,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4995,2023-03-02,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5603,2023-03-02,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.0699,2023-03-01,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5699,2023-03-01,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-03-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4872,2023-03-01,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.4007,2023-03-01,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.5079,2023-02-28,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.48,2023-02-28,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3904,2023-02-28,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-02-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.0157,2023-02-28,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4876,2023-02-27,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5483,2023-02-27,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4916,2023-02-27,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.0726,2023-02-27,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4029,2023-02-24,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-02-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.0168,2023-02-24,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5068,2023-02-24,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.48,2023-02-24,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.537,2023-02-23,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4006,2023-02-23,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-02-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4826,2023-02-23,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.0381,2023-02-23,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4797,2023-02-22,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5118,2023-02-22,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.0167,2023-02-22,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3402,2023-02-22,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.3467,2023-02-21,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.0422,2023-02-21,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4826,2023-02-21,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.4347,2023-02-21,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4187,2023-02-20,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.5434,2023-02-20,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4962,2023-02-20,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-02-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.142,2023-02-20,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5436,2023-02-17,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.5209,2023-02-17,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-02-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5028,2023-02-17,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1919,2023-02-17,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-02-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.5206,2023-02-16,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4929,2023-02-16,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3838,2023-02-16,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1257,2023-02-16,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-02-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.1456,2023-02-15,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5698,2023-02-15,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3999,2023-02-15,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4957,2023-02-15,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5734,2023-02-14,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.342,2023-02-14,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-02-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.1023,2023-02-14,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4902,2023-02-14,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.4995,2023-02-13,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1702,2023-02-13,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4623,2023-02-13,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.6059,2023-02-13,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3358,2023-02-10,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4906,2023-02-10,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5203,2023-02-10,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.0957,2023-02-10,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-02-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.296,2023-02-09,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5179,2023-02-09,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.7347,2023-02-09,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.5088,2023-02-09,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3222,2023-02-08,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.7353,2023-02-08,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5212,2023-02-08,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-02-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5324,2023-02-08,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7662,2023-02-07,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.3809,2023-02-07,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-02-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.529,2023-02-07,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6244,2023-02-07,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5344,2023-02-06,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.7661,2023-02-06,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.424,2023-02-06,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.5945,2023-02-06,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.6762,2023-02-03,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5214,2023-02-03,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3246,2023-02-03,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3979,2023-02-03,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.3078,2023-02-02,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7666,2023-02-02,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-02-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.3449,2023-02-02,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5249,2023-02-02,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.8496,2023-02-01,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4307,2023-02-01,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5252,2023-02-01,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.3468,2023-02-01,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-02-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.8312,2023-01-31,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.2674,2023-01-31,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4153,2023-01-31,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-31,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5147,2023-01-31,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.2242,2023-01-30,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.509,2023-01-30,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-01-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.7735,2023-01-30,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3134,2023-01-30,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2382,2023-01-29,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5084,2023-01-29,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3762,2023-01-29,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7861,2023-01-29,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.5079,2023-01-28,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.48,2023-01-28,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.0157,2023-01-28,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3904,2023-01-28,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.2014,2023-01-27,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.7374,2023-01-27,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2988,2023-01-27,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.506,2023-01-27,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-01-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6649,2023-01-26,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4972,2023-01-26,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.2,2023-01-26,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1371,2023-01-26,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-01-26,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.495,2023-01-25,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1221,2023-01-25,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5918,2023-01-25,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2146,2023-01-25,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4921,2023-01-24,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.0995,2023-01-24,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-01-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6497,2023-01-24,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2043,2023-01-24,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1522,2023-01-23,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6943,2023-01-23,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4991,2023-01-23,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.2308,2023-01-23,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.5118,2023-01-22,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4797,2023-01-22,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3402,2023-01-22,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.0167,2023-01-22,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4826,2023-01-21,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3467,2023-01-21,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.0422,2023-01-21,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.4347,2023-01-21,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.1718,2023-01-20,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5017,2023-01-20,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3017,2023-01-20,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.7363,2023-01-20,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,12.716,2023-01-19,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.1521,2023-01-19,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.308,2023-01-19,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4989,2023-01-19,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.5052,2023-01-18,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.7328,2023-01-18,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3236,2023-01-18,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1971,2023-01-18,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-01-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKETT,130,1.0,2023-01-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5181,2023-01-17,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.741,2023-01-17,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4281,2023-01-17,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2927,2023-01-17,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.2691,2023-01-16,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.5148,2023-01-16,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.4237,2023-01-16,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.7108,2023-01-16,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,12.5698,2023-01-15,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.1456,2023-01-15,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3999,2023-01-15,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4957,2023-01-15,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5734,2023-01-14,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.1023,2023-01-14,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4902,2023-01-14,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.342,2023-01-14,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5157,2023-01-13,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.389,2023-01-13,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.2759,2023-01-13,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.7025,2023-01-13,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.2884,2023-01-12,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4978,2023-01-12,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.7488,2023-01-12,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5177,2023-01-12,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.509,2023-01-11,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.2238,2023-01-11,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6975,2023-01-11,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2023-01-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4536,2023-01-11,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4982,2023-01-10,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-01-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3746,2023-01-10,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1435,2023-01-10,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6281,2023-01-10,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.2014,2023-01-09,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4764,2023-01-09,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.731,2023-01-09,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5061,2023-01-09,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-01-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.5324,2023-01-08,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3222,2023-01-08,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.7353,2023-01-08,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5212,2023-01-08,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.7662,2023-01-07,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.3809,2023-01-07,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.529,2023-01-07,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6244,2023-01-07,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.424,2023-01-06,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.7661,2023-01-06,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.5344,2023-01-06,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.5945,2023-01-06,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.1608,2023-01-05,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2023-01-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6264,2023-01-05,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.509,2023-01-05,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.5007,2023-01-05,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-01-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6662,2023-01-04,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4988,2023-01-04,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.4901,2023-01-04,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.1455,2023-01-04,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,11.1388,2023-01-03,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5939,2023-01-03,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.5391,2023-01-03,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4977,2023-01-03,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-01-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.502,2023-01-02,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1703,2023-01-02,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6229,2023-01-02,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4588,2023-01-02,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2023-01-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.5252,2023-01-01,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2023-01-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.8496,2023-01-01,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4307,2023-01-01,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.3468,2023-01-01,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4965,2022-12-30,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,11.1283,2022-12-30,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5811,2022-12-30,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-12-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4371,2022-12-30,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.6129,2022-12-29,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.1432,2022-12-29,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-12-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4748,2022-12-29,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4985,2022-12-29,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-12-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,11.125,2022-12-28,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4517,2022-12-28,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.496,2022-12-28,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5852,2022-12-28,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4507,2022-12-27,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4973,2022-12-27,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-12-27,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.617,2022-12-27,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.1353,2022-12-27,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6294,2022-12-23,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.108,2022-12-23,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4937,2022-12-23,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-12-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4751,2022-12-23,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-12-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.5522,2022-12-22,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3453,2022-12-22,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.0156,2022-12-22,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4811,2022-12-22,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.666,2022-12-21,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4237,2022-12-21,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.0727,2022-12-21,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4886,2022-12-21,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-12-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4064,2022-12-20,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.6509,2022-12-20,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.0482,2022-12-20,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-12-20,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4851,2022-12-20,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.4815,2022-12-19,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-12-19,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3546,2022-12-19,USD,US dollar,Nasdaq
+SEKEURPMI,130,11.0191,2022-12-19,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6395,2022-12-19,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,11.0027,2022-12-16,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4792,2022-12-16,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3476,2022-12-16,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-12-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.5879,2022-12-16,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,12.6613,2022-12-15,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4651,2022-12-15,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,10.8983,2022-12-15,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-12-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.2432,2022-12-15,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.8568,2022-12-14,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6298,2022-12-14,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.2074,2022-12-14,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-12-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4595,2022-12-14,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.4604,2022-12-13,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-12-13,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6291,2022-12-13,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3017,2022-12-13,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.8621,2022-12-13,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,10.9004,2022-12-12,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4655,2022-12-12,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.6689,2022-12-12,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3482,2022-12-12,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-12-12,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.9002,2022-12-09,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6285,2022-12-09,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.3133,2022-12-09,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-12-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4655,2022-12-09,DKK,Danish krone,Nasdaq
+SEKDKKPMI,130,1.466,2022-12-08,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3668,2022-12-08,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.6407,2022-12-08,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-12-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.904,2022-12-08,EUR,Euroland euro,Nasdaq
+SEKEURPMI,130,10.9047,2022-12-07,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4662,2022-12-07,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.6604,2022-12-07,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4198,2022-12-07,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-12-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4664,2022-12-06,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.3972,2022-12-06,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.9071,2022-12-06,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-12-06,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6778,2022-12-06,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-12-05,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.8789,2022-12-05,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4628,2022-12-05,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.6591,2022-12-05,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.317,2022-12-05,USD,US dollar,Nasdaq
+SEKUSDPMI,130,10.3171,2022-12-02,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.8623,2022-12-02,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4606,2022-12-02,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.6615,2022-12-02,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-12-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4954,2022-12-01,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.9308,2022-12-01,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4698,2022-12-01,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.6922,2022-12-01,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-12-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6355,2022-11-30,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-11-30,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4693,2022-11-30,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.5592,2022-11-30,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.9266,2022-11-30,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4643,2022-11-29,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.6433,2022-11-29,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.5042,2022-11-29,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-11-29,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.8897,2022-11-29,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-11-28,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.8509,2022-11-28,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.4171,2022-11-28,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4591,2022-11-28,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.5889,2022-11-28,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,12.5959,2022-11-25,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4576,2022-11-25,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.4019,2022-11-25,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.8395,2022-11-25,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-11-25,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4604,2022-11-24,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-11-24,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4327,2022-11-24,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.8611,2022-11-24,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.5906,2022-11-24,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.6211,2022-11-23,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.475,2022-11-23,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.6179,2022-11-23,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,10.9702,2022-11-23,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-11-23,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.475,2022-11-22,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.6838,2022-11-22,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.9707,2022-11-22,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6601,2022-11-22,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-11-22,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.6953,2022-11-21,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-11-21,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6494,2022-11-21,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4757,2022-11-21,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,10.9763,2022-11-21,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4772,2022-11-18,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.616,2022-11-18,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.9874,2022-11-18,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-11-18,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6252,2022-11-18,GBP,pound sterling,Nasdaq
+SEKGBPPMI,130,12.5284,2022-11-17,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.4847,2022-11-17,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.9008,2022-11-17,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4655,2022-11-17,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-11-17,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.4393,2022-11-16,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.3866,2022-11-16,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4589,2022-11-16,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-11-16,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.8519,2022-11-16,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.2655,2022-11-15,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4501,2022-11-15,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-11-15,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.7873,2022-11-15,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.3678,2022-11-15,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-11-14,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.3898,2022-11-14,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.7388,2022-11-14,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.2679,2022-11-14,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4436,2022-11-14,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.5417,2022-11-11,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4513,2022-11-11,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.3605,2022-11-11,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,10.7972,2022-11-11,EUR,Euroland euro,Nasdaq
+SEKETT,130,1.0,2022-11-11,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKDKKPMI,130,1.4642,2022-11-10,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,10.8931,2022-11-10,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-11-10,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.8907,2022-11-10,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.4047,2022-11-10,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4546,2022-11-09,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.4062,2022-11-09,GBP,pound sterling,Nasdaq
+SEKUSDPMI,130,10.7401,2022-11-09,USD,US dollar,Nasdaq
+SEKETT,130,1.0,2022-11-09,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.8203,2022-11-09,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4587,2022-11-08,DKK,Danish krone,Nasdaq
+SEKGBPPMI,130,12.455,2022-11-08,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-11-08,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.8602,2022-11-08,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.8507,2022-11-08,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4571,2022-11-07,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-11-07,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.3846,2022-11-07,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,10.8444,2022-11-07,EUR,Euroland euro,Nasdaq
+SEKUSDPMI,130,10.8834,2022-11-07,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.4926,2022-11-04,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-11-04,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKEURPMI,130,10.8899,2022-11-04,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4631,2022-11-04,DKK,Danish krone,Nasdaq
+SEKUSDPMI,130,11.1428,2022-11-04,USD,US dollar,Nasdaq
+SEKUSDPMI,130,11.1763,2022-11-03,USD,US dollar,Nasdaq
+SEKEURPMI,130,10.9172,2022-11-03,EUR,Euroland euro,Nasdaq
+SEKDKKPMI,130,1.4668,2022-11-03,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-11-03,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKGBPPMI,130,12.6232,2022-11-03,GBP,pound sterling,Nasdaq
+SEKDKKPMI,130,1.4616,2022-11-02,DKK,Danish krone,Nasdaq
+SEKEURPMI,130,10.8798,2022-11-02,EUR,Euroland euro,Nasdaq
+SEKGBPPMI,130,12.6532,2022-11-02,GBP,pound sterling,Nasdaq
+SEKETT,130,1.0,2022-11-02,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.9882,2022-11-02,USD,US dollar,Nasdaq
+SEKDKKPMI,130,1.4583,2022-11-01,DKK,Danish krone,Nasdaq
+SEKETT,130,1.0,2022-11-01,SEK,Used for inverted exchange rate,Sveriges Riksbank
+SEKUSDPMI,130,10.926,2022-11-01,USD,US dollar,Nasdaq
+SEKGBPPMI,130,12.606,2022-11-01,GBP,pound sterling,Nasdaq
+SEKEURPMI,130,10.8566,2022-11-01,EUR,Euroland euro,Nasdaq
